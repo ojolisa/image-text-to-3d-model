@@ -1,0 +1,12 @@
+transformers
+accelerate
+diffusers @ git+https://github.com/huggingface/diffusers
+flask
+pyngrok
+Pillow
+numpy
+trimesh
+rembg
+torch
+matplotlib
+onnxruntime
