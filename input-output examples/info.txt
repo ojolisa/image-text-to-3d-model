@@ -1,0 +1,1 @@
+These are only a few examples of what all this model can do. Feel free to use more images and texts. Users can also choose to create .stl files rather than .obj files from the interface.
